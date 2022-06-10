@@ -3,7 +3,7 @@
     "Name": "Mondial Oro",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 20,
-    "PictureUrl": "images/products/sb-ang1.png",
+    "PictureUrl": "images/products/Coffee-Mondial-Espresso-Gold-Oro.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -11,15 +11,7 @@
     "Name": "Mondial Rosso",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
     "Price": 23,
-    "PictureUrl": "images/products/sb-ang2.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Mondial Nero",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 25,
-    "PictureUrl": "images/products/sb-core1.png",
+    "PictureUrl": "images/products/mondial-rosso.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -27,7 +19,7 @@
     "Name": "Mondial 100% Arabica",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
     "Price": 30,
-    "PictureUrl": "images/products/sb-core2.png",
+    "PictureUrl": "images/products/mondial-black.png",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
@@ -35,7 +27,7 @@
     "Name": "Loumidis Greek Coffee",
     "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
     "Price": 12,
-    "PictureUrl": "images/products/sb-ts1.png",
+    "PictureUrl": "images/products/loumidis.png",
     "ProductTypeId": 1,
     "ProductBrandId": 2
   },
@@ -43,7 +35,7 @@
     "Name": "7Days Mini Croissant",
     "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
     "Price": 5,
-    "PictureUrl": "images/products/hat-core1.png",
+    "PictureUrl": "images/products/7days.png",
     "ProductTypeId": 2,
     "ProductBrandId": 3
   }
